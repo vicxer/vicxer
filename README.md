@@ -2,7 +2,7 @@
 
 Welcome to the official Github repository of _Vicxer,Inc._! We specialize in ERP security, making the world a better place one byte at the time.
 
-### 🌱 What we should expect from this account?
+### 🌱 What you should expect from this account?
 
 - ERP security and functional software
 - White-Papers
